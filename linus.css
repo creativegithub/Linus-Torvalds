@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    color: rgb(68, 68, 68);
+    font-family: cursive;
+}
+
+h1 {
+    color: rgb(34, 34, 34);
+    background-color: rgba(5, 40, 46, 0.685);
+    font-size: 50px;
+    margin: 10px 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+
+h2 {
+    color: rgb(34, 34, 34);
+    background-color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 20px 0px;
+}
+
+p,img,figure>figcaption,ul>li,cite{
+    margin: 10px 30px;
+}
+
+.creater,figure>figcaption{
+    color: darkslategray;
+    font-family: sans-serif;
+}
+
+b{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    color:rgba(218, 165, 32, 0.952);
+}
